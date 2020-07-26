@@ -1,0 +1,10 @@
+/.idea
+/*.iml
+generated
+target
+logs
+/src/test/java/com/nd/fepapi/testdata
+/src/main/java/com/nd/fepapi/web/extend
+/bin/
+/abc.xlsx
+/src/test/java/com/nd/fepapi/nojunit/utils/QomAutoAnswerTest
